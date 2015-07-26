@@ -50,10 +50,10 @@ class ViewController: UIViewController {
         let view_H: String! = "H:|[slider]|"
         let view_V: String! = "V:|[slider]|"
         
-        let spinNumber: CGFloat = CGFloat(M_PI) * 1.5
-        let transform: CGAffineTransform = CGAffineTransformMakeRotation(spinNumber)
-        
-        slider.transform = transform
+//        let spinNumber: CGFloat = CGFloat(M_PI) * 1.5
+//        let transform: CGAffineTransform = CGAffineTransformMakeRotation(spinNumber)
+//        
+//        slider.transform = transform
         slider.addConstraints(slider_constraint_H)
         slider.addConstraints(slider_constraint_V)
         
