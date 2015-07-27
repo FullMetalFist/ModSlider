@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9EFAFE51-5BF0-4F09-99FD-6718A8FA3A0B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ModSlider</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>91AC9C7959EB9643205C745DB4DBC8A160AA0CEC</key>
+		<string>github.com:FullMetalFist/ModSlider.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ModSlider.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>91AC9C7959EB9643205C745DB4DBC8A160AA0CEC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:FullMetalFist/ModSlider.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>91AC9C7959EB9643205C745DB4DBC8A160AA0CEC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>91AC9C7959EB9643205C745DB4DBC8A160AA0CEC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ModSlider</string>
+		</dict>
+	</array>
+</dict>
+</plist>
